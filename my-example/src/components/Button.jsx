@@ -1,6 +1,8 @@
-const Button = () => {
+import "./button.module.css";
+
+const Button = ({ label }) => {
     return (
-        <button>Awesome</button>
+        <button type="button">{label}</button>
     )
 }
 export default Button;
