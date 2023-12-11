@@ -1,5 +1,6 @@
 import './App.css';
 import Button from './components/Button';
+import Icons from './components/Icons';
 import Menu from './components/Menu';
 const App = () => {
   return (
@@ -10,7 +11,7 @@ const App = () => {
         Ninja developer.
       </p>
       <Button />
-
+      <Icons />
     </>
   )
 }
