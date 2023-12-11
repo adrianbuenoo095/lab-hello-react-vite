@@ -1,7 +1,6 @@
-import './App.css'
+import './App.css';
 
-function App() {
-
+const App = () => {
   return (
     <>
       <h1>The Pocman</h1>
@@ -9,4 +8,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
