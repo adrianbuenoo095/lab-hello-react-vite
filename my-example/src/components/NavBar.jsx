@@ -2,7 +2,7 @@ import logo from '../assets/images/ironhack-logo-xs.png';
 import MenuBurger from '../assets/images/menu-top-xs.png';
 
 
-const Menu = () => {
+const NavBar = () => {
     console.log(logo)
     console.log(MenuBurger)
     return (
@@ -15,4 +15,4 @@ const Menu = () => {
     )
 }
 
-export default Menu;
+export default NavBar;

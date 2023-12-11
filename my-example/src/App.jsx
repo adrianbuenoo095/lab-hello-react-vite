@@ -1,11 +1,11 @@
 import './App.css';
 import Button from './components/Button';
 import Icons from './components/Icons';
-import Menu from './components/Menu';
+import NavBar from './components/NavBar';
 const App = () => {
   return (
     <>
-      <Menu />
+      <NavBar />
       <h1>Say hello to ReactJs</h1>
       <p>You will learn how to use the most popular frontend library, and become a super
         Ninja developer.
